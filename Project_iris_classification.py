@@ -1,7 +1,5 @@
 # ============================================================
-# TASK 1: Iris Flower Classification
-# CodeAlpha Data Science Internship
-# Student: Zoha Yousaf | ID: CA/DF1/83644
+# Project 1: Iris Flower Classification
 # ============================================================
 
 import pandas as pd
@@ -120,4 +118,4 @@ sample = np.array([[5.1, 3.5, 1.4, 0.2]])
 pred   = model.predict(sample)
 print(f"Input  : SepalLen=5.1, SepalWid=3.5, PetalLen=1.4, PetalWid=0.2")
 print(f"Predicted Species : {le.inverse_transform(pred)[0]}")
-print("\nTask 1 Complete!")
+print("\nProject Complete!")
