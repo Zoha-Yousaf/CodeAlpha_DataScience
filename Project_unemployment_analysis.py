@@ -1,7 +1,5 @@
 # ============================================================
-# TASK 2: Unemployment Analysis with Python
-# CodeAlpha Data Science Internship
-# Student: Zoha Yousaf | ID: CA/DF1/83644
+# Project: Unemployment Analysis with Python
 # ============================================================
 
 import pandas as pd
@@ -150,4 +148,4 @@ print(f"3. Increase due to Covid           : +{increase:.2f} percentage points")
 peak_month = monthly.loc[monthly['Avg_Unemployment_Rate'].idxmax(), 'Date']
 print(f"4. Highest spike month             : {peak_month.strftime('%B %Y')}")
 print(f"5. Most affected region            : {region_avg.idxmax()}")
-print("\nTask 2 Complete!")
+print("\nProject Complete!")
