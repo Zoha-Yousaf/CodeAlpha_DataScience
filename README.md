@@ -1,17 +1,14 @@
-# CodeAlpha Data Science Internship Tasks
+# My Projects 
 
-This repository contains the completed tasks assigned during my Data Science Internship at CodeAlpha.
+This repository contains the completed Projects.
 
-## 🧑‍🎓 Intern Details
-* **Name:** Zoha Yousaf
-* **Student ID:** CA/DF1/83644
 * **Domain:** Data Science
 * **Duration:** May 20, 2026 – June 20, 2026
 
 ---
 
 ## 📁 Repository Structure
-Each task is organized into its own dedicated folder containing the source code, datasets, and visualizations.
+Each Project is organized into its own dedicated folder containing the source code, datasets, and visualizations.
 
 * `/Car-Price-Prediction` — Machine Learning regression pipeline for vehicle valuation.
 * `/Iris-Flower-Classification` — Pattern recognition and species grouping classification model.
@@ -20,16 +17,16 @@ Each task is organized into its own dedicated folder containing the source code,
 
 ---
 
-## 🚀 Tasks Overview
+## 🚀 Projects Overview
 
-### 🔹 Task 1: Car Price Prediction
+### 🔹 Project 1: Car Price Prediction
 * **Description:** Built a machine learning pipeline to predict used car prices based on vehicle features and historical data.
 * **Key Technologies:** Python, Scikit-learn, Gradient Boosting, Random Forest, Matplotlib, Seaborn.
 * **Results:** 
   * Achieved a top $R^2$ Score of **0.9648** using **Gradient Boosting Regression**.
   * Identified **Present_Price** (current showroom price) and **Car_Age** as the most critical features driving valuation.
 
-### 🔹 Task 2: Iris Flower Classification
+### 🔹 Project 2: Iris Flower Classification
 * **Description:** Developed a machine learning classification model to categorize Iris flowers into three distinct species based on their structural measurements.
 * **Key Technologies:** Python, Scikit-learn, Matplotlib, Seaborn, Classification Metrics.
 * **Results:** 
@@ -37,7 +34,7 @@ Each task is organized into its own dedicated folder containing the source code,
   * Successfully isolated **Iris-setosa** with 100% accuracy based on its unique physical clusters.
   * Identified **PetalWidthCm** and **PetalLengthCm** as the defining features for species differentiation.
 
-### 🔹 Task 3: Sales Prediction (Advertising Spend Analysis)
+### 🔹 Project 3: Sales Prediction (Advertising Spend Analysis)
 * **Description:** Analyzed the impact of different advertising mediums (TV, Radio, Newspaper) on product sales and developed a predictive regression model.
 * **Key Technologies:** Python, Pandas, Linear Regression, Ridge Regression, Random Forest, Seaborn.
 * **Results:** 
@@ -45,7 +42,7 @@ Each task is organized into its own dedicated folder containing the source code,
   * Confirmed that **TV Advertising** holds the strongest linear correlation ($r = 0.78$) with total sales revenue.
   * Demonstrated that traditional Linear Regression outpaced complex ensemble methods for this specific linear dataset.
 
-### 🔹 Task 4: India Unemployment Analysis (Covid-19 Impact)
+### 🔹 Project 4: India Unemployment Analysis (Covid-19 Impact)
 * **Description:** Analyzed the economic shock of the Covid-19 pandemic on employment rates across different states and rural/urban sectors in India.
 * **Key Technologies:** Python, Pandas, Matplotlib, Seaborn, Time Series Visualization.
 * **Results:** 
